@@ -10,7 +10,7 @@ A comprehensive collection of projects covering the entire data science workflow
 - [data-api](https://github.com/Rafikirs/data-api)  
 - [opengraph-api](https://github.com/Rafikirs/data-opengraph_api)
 
-### 🗃SQL
+### SQL
 - [interacting-with-code](https://github.com/Rafikirs/data-interacting-with-code)  
 - [sql-queries](https://github.com/Rafikirs/data-sql-queries)  
 - [back_to_school_query](https://github.com/Rafikirs/data-back_to_school_query)  
@@ -19,7 +19,7 @@ A comprehensive collection of projects covering the entire data science workflow
 - [rank-and-partition](https://github.com/Rafikirs/data-rank-and-partition)  
 - [subquery-refactoring](https://github.com/Rafikirs/data-subquery-refactoring)
 
-### 🕸Web Scraping
+### Web Scraping
 - [recipe_scraping](https://github.com/Rafikirs/data-recipe_scraping)  
 - [book_scraping](https://github.com/Rafikirs/data-book_scraping)
 
@@ -163,6 +163,11 @@ A comprehensive collection of projects covering the entire data science workflow
 - [fast-api](https://github.com/Rafikirs/data-fast-api)
 
 ---
+
+## Final Project - Movie recommendation system
+
+- [movie-picker](https://github.com/Rafikirs/movie_picker)
+- [streamlit-website](https://github.com/Rafikirs/mp_website)
 
 
 
